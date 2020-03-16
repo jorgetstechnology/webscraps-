@@ -3,7 +3,7 @@
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
        <h2 align="center">WEBSCRAP's em Python</h2>
   </h6>
-
+<h3> Este git foi criado para unir e catalogar todos webscraps criados durante estudos python</h3>
 Instalação e execução
 ---------------------
 
