@@ -1,8 +1,6 @@
 # Webscraps em Python
 <h6 align="center">
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/python-blue.svg" /></a>
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/gorpo orko-blue.svg" /></a>
-    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/webscraps python-blue.svg" /></a>
+    <a href="https://t.me/gorpo_bot"><img src="https://img.shields.io/badge/python-v3.7-blue.svg" /></a>
   </h6>
   
   <h6 align="center">
